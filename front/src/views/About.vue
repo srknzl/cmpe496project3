@@ -9,5 +9,7 @@
     <p>The default value will be None for the credit card type</p>
     <p>The users will also enter their email address when buying</p>
     <p>There will be input validation in the user interface</p>
+    <p>As database mongodb is used, there are two proejcts running one in frontend other is backend</p>
+    <p>Nodejs used for backend, Vue.js used for frontend</p>
   </div>
 </template>
